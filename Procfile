@@ -1,0 +1,1 @@
+web: java -jar target/sentiment-analyzer-1.0.0.jar
